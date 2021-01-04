@@ -1,0 +1,6 @@
+########################################################################
+# Shell aliases for RESIST project development.
+########################################################################
+alias re="cd ${RESIST_HOME}"
+alias res="cd ${RESIST_LIB_HOME}/src/main/java/resist"
+alias ret="cd ${RESIST_LIB_HOME}/src/test/java/resist"
